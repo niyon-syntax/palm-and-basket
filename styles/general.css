@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    --text-normal: rgb(248, 243, 237);
+    --my-green: #6E7F48;
+    --my-black: #2C2A27;
+    --cream: #E3C18F;
+    --accent-red: #C1440E;
+    --my-brown: #7A4F29;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: var(--text-normal);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent-red);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::selection {
+    background: #e6642c;
+    color: #F8F3ED;
+}

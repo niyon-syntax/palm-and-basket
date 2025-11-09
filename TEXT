@@ -1,0 +1,15 @@
+<div class="header">
+    <div class="left-section">
+        <img class="hamburger-menu" src="/youtube _clone/icons/hamburger-menu.svg">
+        <img class="business-logo" src="./images/logo/openart-image_0BLFTt_Y_1760966359770_raw.jpg">
+    </div>
+    <div class="middle-section">
+        <div class="link">About</div>
+        <div class="link">Everything</div>
+        <div class="link">Groceries</div>
+        <div class="link">Contact</div>
+    </div>
+    <div class="left-section">
+        <img class="user" src="">
+    </div>
+</div>
