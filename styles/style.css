@@ -24,7 +24,7 @@
 .oil {
     position: absolute;
     bottom: 50px;
-    left: 100px;
+    left: 5vw;
     width: 240px;
     z-index: 10;
 }
@@ -32,7 +32,7 @@
 .crayfish {
     position: absolute;
     bottom: 50px;
-    left: 300px;
+    left: 9vw;
     width: 240px;
     z-index: 13;
 }
